@@ -31,13 +31,12 @@ const HeroSection = () => {
       <div className="space-y-6 text-center">
         <div className="space-y-6 mx-auto">
           <h1 className="text-5xl font-bold md:text-6xl lg:text-7xl xl:text-8xl gradient-title animate-gradient">
-            Your AI Career Coach for
+            Guiding You to Professional
             <br />
-            Professional Success
+           Success with AI Expertise
           </h1>
           <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
-            Advance your career with personalized guidance, interview prep, and
-            AI-powered tools for job success.
+            Unlock your full career potential with expert guidance, interview prep, and AI-driven tools.
           </p>
         </div>
         <div className="flex justify-center space-x-4">
